@@ -1,5 +1,6 @@
 <h1 align="center">Hi ✋, I'm Syed Sabbir Hasan</h1>
 <h3 align="center">Business Analytics Enthusiast | SQL • Python • Power BI | Engineering Business Solutions Through Data</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hasan-34&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hasan-34" /> </p>
 
@@ -11,10 +12,6 @@
 - 💬 Ask me about **Analytics & IE Optimization**
 
 - 📫 How to reach me **sabbirhasan34.ipe@gmail.com**
-
-- ⚡ Fun fact **I am a deformer**
-
-<h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Connect with me:</h3>
 
